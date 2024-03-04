@@ -1,5 +1,5 @@
 # Continual-Zoo
-This is the official implementation of our recent submission "Continual-Zoo: Leveraging Zoo Models for Continual Classification of Medical Images", submitted to CLVision Workshop at CVPR 2024. 
+This is the official implementation of our recent submission "Continual-Zoo: Leveraging Zoo Models for Continual Classification of Medical Images", submitted to CLVISION Workshop at CVPR 2024. 
 
 The code and datasets will be made publicly available after paper acceptance.
 
