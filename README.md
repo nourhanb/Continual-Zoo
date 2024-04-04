@@ -4,7 +4,7 @@ This is the PyTorch implementation of paper "Continual-Zoo: Leveraging Zoo Model
 ---coming soon --- 
 
 ## Abstract
-(...). 
+
 
 ## File Description
 - constructing zoo: Decide on number and type of pretrained models. 
